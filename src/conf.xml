@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+  <entry key="namespace.name">conf.xml says: "Hello World!"</entry>
+  <entry key="spotter.tagmekey">XXXX</entry>
+  <entry key="jdbc.url">jdbc:sqlserver://localhost:1433</entry>
+  <entry key="jdbc.user">user</entry>
+  <entry key="jdbc.password">password</entry>
+  <entry key="jdbc.dbname">dbname</entry>
+</properties>
