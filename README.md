@@ -24,7 +24,7 @@ More documentation about the system is available [here](https://github.com/bioin
   * José L. Oliveira<sup id="a1">[1](#f1)</sup>
 
 1. <small id="f1"> University of Aveiro, Dept. Electronics, Telecommunications and Informatics (DETI / IEETA), Aveiro, Portugal </small> [↩](#a1)
-2. <small id="f4"> University of A Coruña, Dept. of Information and Communications Technologies, A Coruña, Spain </small> [↩](#a4)
+2. <small id="f2"> University of A Coruña, Dept. of Information and Communications Technologies, A Coruña, Spain </small> [↩](#a2)
 2. <small id="f3"> CeDRI, Polytechnic Institute of Bragança, Bragança, Portugal </small> [↩](#a3)
 
 ### Cite
