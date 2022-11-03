@@ -1,0 +1,152 @@
+[
+	{
+		"id": 1,
+		"category": "c1",
+		"question": "How many patients performed the neuropsychological examination?"
+	},
+	{
+		"id": 2,
+		"category": "c1",
+		"question": "How many datasets are there with RM records?"
+	},
+	{
+		"id": 3,
+		"category": "c1",
+		"question": "Which cohorts contain CT scans?"
+	},
+	{
+		"id": 4,
+		"category": "c1",
+		"question": "Which cohorts contain computed tomography scans?"
+	},
+	{
+		"id": 5,
+		"category": "c1",
+		"question": "Which cohorts collected MRI?"
+	},
+	{
+		"id": 6,
+		"category": "c1",
+		"question": "How many patients are there with MCI?"
+	},
+	{
+		"id": 7,
+		"category": "c1",
+		"question": "Which cohorts recorded PET exams?"
+	},
+	{
+		"id": 8,
+		"category": "c1",
+		"question": "Which cohorts collected cerebrospinal fluid patient data?"
+	},
+	{
+		"id": 9,
+		"category": "c1",
+		"question": "How many databases are there with auditory verbal learning?"
+	},
+	{
+		"id": 10,
+		"category": "c1",
+		"question": "How many databases are there with NTB data?"
+	},
+	{
+		"id": 11,
+		"category": "c2",
+		"question": "How many datasets are there without auditory verbal learning test records?"
+	},
+	{
+		"id": 12,
+		"category": "c2",
+		"question": "How many datasets are there without AVLTs?"
+	},
+	{
+		"id": 13,
+		"category": "c2",
+		"question": "How many datasets have patients who did not perform the Boston naming test?"
+	},
+	{
+		"id": 14,
+		"category": "c2",
+		"question": "How many databases are there leaving out PET data?"
+	},
+	{
+		"id": 15,
+		"category": "c2",
+		"question": "How many datasets are there without visuoconstruction tests?"
+	},
+	{
+		"id": 16,
+		"category": "c2",
+		"question": "What is the number of datasets without source documentation in Portuguese?"
+	},
+	{
+		"id": 17,
+		"category": "c2",
+		"question": "What is the number of datasets without CTs?"
+	},
+	{
+		"id": 18,
+		"category": "c2",
+		"question": "Which databases do not consider Lewy Body Dementia? "
+	},
+	{
+		"id": 19,
+		"category": "c2",
+		"question": "Which databases omit Lewy Body Dementia?"
+	},
+	{
+		"id": 20,
+		"category": "c2",
+		"question": "Which databases have neuropathology tests unavailable?"
+	},
+	{
+		"id": 21,
+		"category": "c3",
+		"question": "How many datasets are available with visuoconstruction and neuropsychological test batteries?"
+	},
+	{
+		"id": 22,
+		"category": "c3",
+		"question": "Which patients performed attention and MRI scan?"
+	},
+	{
+		"id": 23,
+		"category": "c3",
+		"question": "How many datasets exist with visuoconstruction or with NTB and MRI scans?"
+	},
+	{
+		"id": 24,
+		"category": "c3",
+		"question": "What are the demographics of patients with CDR information?"
+	},
+	{
+		"id": 25,
+		"category": "c3",
+		"question": "Which databases have visuoconstruction exams but not neuropsychological test batteries and MRI scans?"
+	},
+	{
+		"id": 26,
+		"category": "c3",
+		"question": "What test is recommended to detect Lewy Body Dementia?"
+	},
+	{
+		"id": 27,
+		"category": "c3",
+		"question": "All the patients that performed the Boston naming test and WAIS?"
+	},
+	{
+		"id": 28,
+		"category": "c3",
+		"question": "How many datasets exist with patients that did not perform the Boston naming test and performed WAIS?"
+	},
+	{
+		"id": 29,
+		"category": "c3",
+		"question": "Amount of patients that performed a PET exam but did not perform the auditory verbal learning test?"
+	},
+		{
+		"id": 30,
+		"category": "c3",
+		"question": "Between males and females undergoing the CERAD word list exam, which had the higher scores?"
+	}
+]
